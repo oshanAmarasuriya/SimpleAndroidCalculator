@@ -1,4 +1,4 @@
-package com.osh.onlyfortesting;
+package com.example.simpleandroidcalculator;
 
 import androidx.appcompat.app.AppCompatActivity;
 
